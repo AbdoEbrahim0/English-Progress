@@ -1,0 +1,120 @@
+My Raw Writing:
+they play guessing game whree they try find out a person's name from the informations.
+she is a famous person .she is a singer. she has a pretty face with blonde hair. Who is she ? 
+is it Tylor swift ? ding ding ding. yes , it is correct.
+Are you ready for the next one ? yes , go ahead .
+he is an athlete as he plays a scoccer game , He resides in Argantina , Now he plays in spanish team .
+he is so young and fast and so much clever.  
+she does not know much about the soccer game she missied the correct anser by saying cristiao ronaldi while the correct answer was Leonal missi.
+Now it is 1-1 in the battle . 
+the next one was an actor he is from Hong Kong.So much famous in America and the world . 
+he is so much funny guy . 
+is it jacki chan ? yes, you are right .
+it seems you win the battle 2-1 score.
+
+Now they switched roles . so she ask him about a a Jamaican person who is very fast. he runs in olymics and todd assk her .
+Does he won Gold medal , the answer was yes  . is it Usian Bolt? yes , it is . bing-bing-bing.
+now next one is a women which is married to a rapper . She is also an American singer ?
+is she Byoncee ? yes , she is .
+
+the conversaion was so well . we have a nich time .
+
+Grammar:
+
+100
+/100
+Fluency:
+
+78
+/100
+Clarity:
+
+30
+/100
+
+After grammar Checker:
+They play a guessing game where they try to find out a person's name from the information.
+
+She is a famous person. she is a singer. She has a pretty face with blonde hair. Who is she? 
+
+Is it Taylor Swift? ding ding ding. Yes, it is correct.
+
+Are you ready for the next one? Yes, go ahead.
+
+He is an athlete as he plays a soccer game. He resides in Argantina , Now he plays in spanish team .
+
+He is so young and fast and so much clever. 
+
+She does not know much about the soccer game; she missed the correct answer by saying Cristiano Ronaldo, while the correct answer was Lionel Messi.
+
+Now it is 1-1 in the battle. 
+
+The next one was an actor. he is from Hong Kong.So much famous in America and the world . 
+
+He is such a funny guy. 
+
+Is it Jackie Chan? Yes, you are right.
+
+It seems you win the battle with a 2-1 score.
+
+Now they switched roles. So she asks him about a Jamaican person who is very fast. He runs in the Olympics, and Todd asks her.
+
+Did he win Gold medal? The answer was yes  . is it Usian Bolt? yes , it is . bing-bing-bing.
+
+Now the next one is a woman who is married to a rapper. She is also an American singer.
+
+Is she Beyoncé? Yes, she is.
+
+The conversation was so well. We have a nice time.
+
+Fluency:
+
+88
+/100
+Clarity:
+
+44
+/100
+
+After paraphrase Checker:
+
+They attempt to infer a person's name from the information in a guessing game.
+She is a well-known figure. She performs. She has a lovely face and blonde hair. Who is she? 
+Is it Taylor Swift? Ding ding ding. Indeed, it is accurate.
+Are you ready for the next one? Yes, go for it.
+He played soccer, demonstrating his athleticism. He is located in Argentina. He currently plays for Spain.
+He is very intelligent, quick, and young. 
+Given her lack of knowledge about the soccer match, she gave the wrong response—Cristiano Ronaldo—when Lionel Messi was the right one.
+It is now 1-1 in the battle. 
+The next person was an actor. He's from Hong Kong. Very well-known in America and around the world. 
+He has a great sense of humor. 
+Is it Jackie Chan? Yes, you're right.
+You appear to have won the combat by a score of 2-1.
+They've reversed roles now. So she asks him about a Jamaican who is extremely fast. Todd inquires about him running in the Olympics.
+Did he get a gold medal? The answer was affirmative. Is this Usain Bolt? That is correct. bing-bing-bing.
+The following character is a woman married to a rapper. She also performs as an American vocalist.
+Is she Beyonce? Yes, she is.
+The dialogue went really nicely. We've got a niche time.
+
+Fluency
+Avg. Words in a sentence 
+
+5.75
+From
+
+5.33
+To
+Avg. Syllables in a word 
+
+1.33
+From
+
+1.5
+To
+Readability 
+
+100%
+From
+
+80%
+To
